@@ -1,0 +1,21 @@
+{
+  "name": "atekton",
+  "version": "1.0.0",
+  "description": "atekton website",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^6.2.0",
+    "prettier": "^2.4.1"
+  }
+}

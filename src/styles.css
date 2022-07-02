@@ -1,0 +1,36 @@
+body {
+
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    font-weight: 400;
+    color: rgb(243, 243, 243);
+}
+
+canvas {
+    display:block;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.subheader {
+    font-size: 1.5rem;
+    color: #363635;
+    margin-bottom: 1rem;
+}
+
+.epost {
+    font-size: 0.8rem;
+}
+
+.orgnr {
+    font-size: 0.7rem;
+}
+
+@font-face {
+    font-family: sourcecodepro-medium;
+    src: url(fonts/SourceCodePro-Medium.ttf);
+  }
+  
