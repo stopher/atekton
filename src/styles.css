@@ -33,6 +33,10 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.address {
+    font-size: 0.6rem;
+}
+
 @font-face {
     font-family: sourcecodepro-medium;
     src: url(fonts/SourceCodePro-Medium.ttf);
