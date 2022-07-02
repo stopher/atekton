@@ -29,6 +29,10 @@ h1 {
     font-size: 0.7rem;
 }
 
+.orgnr_value {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 @font-face {
     font-family: sourcecodepro-medium;
     src: url(fonts/SourceCodePro-Medium.ttf);
